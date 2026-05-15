@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car-Price-Prediction Supervised Learning
 Car Price Prediction Model
 ## Project Overview
 
